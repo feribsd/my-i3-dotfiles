@@ -1,14 +1,21 @@
-The packages for it to work properly are:
+Required Packages
+
+Install the needed tools on Arch:
+
 ```bash
 sudo pacman -S firefox feh picom rofi thunar
 ```
-if you want the script to work just run that command for arch other distros may have other package manager such as apt, apk,
-dnf etc.
-
-to change the theme just run the theme switcher script and it will open up rofi giving you the choice to pick your theme
 
 
-keep in mind these are shitty themes made by me for me so idc what you think about it
+Other distros will need to install the same packages with their own package manager (apt, dnf, apk, etc.).
 
+How to Use
 
-also i stole the rofi themes from: https://github.com/newmanls/rofi-themes-collection
+Run the script.sh. It will open a Rofi menu where you can choose the theme you want to apply.
+
+Notes
+
+These themes were made for personal use. They’re not polished, they’re not meant to impress. Use them only if you think Iam so cool and wanna try my things out.
+
+The included Rofi themes were taken from:
+https://github.com/newmanls/rofi-themes-collection
