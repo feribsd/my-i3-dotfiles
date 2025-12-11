@@ -1,6 +1,6 @@
 The packages for it to work properly are:
 ```bash
-sudo pacman -S firefox feh picom  rofi thunar
+sudo pacman -S firefox feh picom rofi thunar
 ```
 if you want the script to work just run that command for arch other distros may have other package manager such as apt, apk,
 dnf etc.
