@@ -3,7 +3,7 @@ Required Packages
 Install the needed tools on Arch:
 
 ```bash
-sudo pacman -S firefox feh picom rofi thunar
+sudo pacman -S firefox feh picom rofi thunar kitty polybar
 ```
 
 
