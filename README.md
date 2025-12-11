@@ -7,7 +7,7 @@ sudo pacman -S firefox feh picom rofi thunar
 ```
 
 
-Other distros will need to install the same packages with their own package manager (apt, dnf, apk, etc.).
+Other distros will need to install the same packages with their own package manager (apt, dnf, apk).
 
 How to Use
 
